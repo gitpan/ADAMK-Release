@@ -47,4 +47,4 @@ requires:
 resources:
   license: http://dev.perl.org/licenses/
   repository: https://github.com/adamkennedyADAMK-Release.git
-version: 0.01
+version: 0.02
